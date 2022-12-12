@@ -54,13 +54,13 @@ On the following Map Plot you will find the bottom 20 rank of the cheapest areas
 # GTA - Excluding Toronto
 
 ## Top 20 highest average prices by Area in GTA
-On the following Map Plot you will find the top 20 rank of the most expensive areas in Toronto, where each color is related to an area and the size of circles follows the average price.
+On the following Map Plot you will find the top 20 rank of the most expensive areas in GTA, where each color is related to an area and the size of circles follows the average price.
 
 ![top20-GTA](https://user-images.githubusercontent.com/114877740/207148612-e96dae45-f6f8-4599-9618-f80c58a0872a.png)
 
 
 ## Bottom 20 smallest average prices by Area in GTA
-On the following Map Plot you will find the bottom 20 rank of the cheapest areas in Toronto, where each color is related to an area and the size of circles follows the average price.
+On the following Map Plot you will find the bottom 20 rank of the cheapest areas in GTA, where each color is related to an area and the size of circles follows the average price.
 
 ![bottom20-GTA](https://user-images.githubusercontent.com/114877740/207148654-2029cbb8-0d08-46fe-9dd1-054c4c9da649.png)
 
