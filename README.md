@@ -37,7 +37,7 @@ Data Analysis was done in a 3 step process.
 ![Picture3](https://user-images.githubusercontent.com/114877740/207100299-d36d0f59-5ccd-4360-a5b1-2bc81b17f81c.png)
 
 ## Housing Market in TORONTO & GTA
-Since GTA had the highest number of houses sold during the period, we've decided to focus on analysis in this area.
+As GTA had the highest number of homes sold in the period, we decided to focus our analysis on this area.
 
 # Toronto
 
