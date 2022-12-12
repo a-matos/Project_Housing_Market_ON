@@ -44,25 +44,25 @@ As GTA had the highest number of homes sold in the period, we decided to focus o
 ## Top 20 highest average prices by Area in TORONTO
 On the following Map Plot you will find the top 20 rank of the most expensive areas in Toronto, where each color is related to an area and the size of circles follows the average price.
 
-![Picture4](https://user-images.githubusercontent.com/114877740/207101938-ca7bf414-e696-4112-8d9b-0ef0f0636413.png)
+![top20-toronto](https://user-images.githubusercontent.com/114877740/207148479-0a59b39a-bf87-4071-a828-4f92661f6a53.png)
 
 ## Bottom 20 smallest average prices by Area in TORONTO
 On the following Map Plot you will find the bottom 20 rank of the cheapest areas in Toronto, where each color is related to an area and the size of circles follows the average price.
 
-![Picture5](https://user-images.githubusercontent.com/114877740/207104238-5a98013b-1e37-4897-8a8a-c73363e1a2c8.png)
+![bottom20-toronto](https://user-images.githubusercontent.com/114877740/207148541-326eea80-4ec8-40b6-a839-041f0ac22157.png)
 
 # GTA - Excluding Toronto
 
 ## Top 20 highest average prices by Area in GTA
 On the following Map Plot you will find the top 20 rank of the most expensive areas in Toronto, where each color is related to an area and the size of circles follows the average price.
 
-![Picture6](https://user-images.githubusercontent.com/114877740/207104664-3f3401a6-3dc6-4f96-b50b-fa2bcbb47d2e.png)
+![top20-GTA](https://user-images.githubusercontent.com/114877740/207148612-e96dae45-f6f8-4599-9618-f80c58a0872a.png)
 
 
 ## Bottom 20 smallest average prices by Area in GTA
 On the following Map Plot you will find the bottom 20 rank of the cheapest areas in Toronto, where each color is related to an area and the size of circles follows the average price.
 
-![Picture7](https://user-images.githubusercontent.com/114877740/207104679-13678b7c-3815-4d97-8588-932f36f75d84.png)
+![bottom20-GTA](https://user-images.githubusercontent.com/114877740/207148654-2029cbb8-0d08-46fe-9dd1-054c4c9da649.png)
 
 # Amenities
 
