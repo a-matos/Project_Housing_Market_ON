@@ -1,6 +1,6 @@
 # Housing Market in Ontario
 
-## Poject 1 - Team 12: 
+## Project 1 - Team 12: 
 ###### Andreza dos Santos 
 ###### Chu Nguyen Kien
 ###### Sameen S
