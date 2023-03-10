@@ -4,7 +4,6 @@
 ###### Andreza dos Santos 
 ###### Chu Nguyen Kien
 ###### Sameen S
-###### Instructor: Faye
 
 ## Objective of the project
 As a new family finding a new home and wanting to raise kids in Canada there are many factors that must be met. Ontario came up as an ideal location due to its bustling environment and opportunities for growth. But which city is the best suited for a young family in Ontario?
